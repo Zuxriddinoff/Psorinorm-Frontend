@@ -27,6 +27,7 @@ const symptoms = [
   { title: 'Noqulaylik', desc: 'Atrofdagilarning noqulay nigohlari.', image: symptomLook }
 ];
 
+
 const testimonials = [
   {
     name: 'Dilorom A.',
