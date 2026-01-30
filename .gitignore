@@ -1,0 +1,20 @@
+# Node.js kutubxonalari
+node_modules/
+
+# Muhit o'zgaruvchilari (Maxfiy ma'lumotlar)
+.env
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+
+# IDE sozlamalari
+.vscode/
+.idea/
+
+# Operatsion tizim fayllari
+DS_Store
+thumbs.db
+
+# Log fayllar
+*.lognode_modules/
