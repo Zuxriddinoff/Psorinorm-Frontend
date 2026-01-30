@@ -2,7 +2,7 @@
 node_modules/
 
 # Muhit o'zgaruvchilari (Maxfiy ma'lumotlar)
-.env
+# .env
 
 # Python kesh fayllari
 __pycache__/
