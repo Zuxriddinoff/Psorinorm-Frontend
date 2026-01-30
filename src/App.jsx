@@ -121,6 +121,8 @@ export default function App() {
       setMessage('Rahmat! Mutaxassis siz bilan tez orada bog‘lanadi.');
       clear();
     } catch (err) {
+      console.log(err);
+      
       setStatus('error');
       setMessage('Yuborishda xatolik. Iltimos, qayta urinib ko‘ring.');
     }
